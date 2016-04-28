@@ -3,6 +3,8 @@ This is my note for [Data Science From Scratch](http://shop.oreilly.com/product/
 The samle code of the book can be found [here](https://github.com/joelgrus/data-science-from-scratch)  
 I use some of them, make modification and add codes about further exploration.
 
+You can view this note from [nbviewer](http://nbviewer.jupyter.org/github/Lee-W/Data_Science_From_Scratch/tree/master/)
+
 ## Table of Content
 - Ch2 - A Crash Course in Python
 - Ch3 - Visualizing Data
