@@ -10,6 +10,8 @@ I use some of them, make modification and add codes about further exploration.
 - Ch5 - Statistics
 - Ch6 - Probability (Further Exploration Not Yet Finished)
 - Ch9 - Getting Data (Further Exploration Not Yet Finished)
+- Ch10 - Working with Data
+- Ch11 - Machine Learning
 
 ### Skipped Chapter
 Ch1
